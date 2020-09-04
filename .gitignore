@@ -1,0 +1,13 @@
+vendor/
+node_modules/
+.env
+.idea/
+.DS_Store
+composer.lock
+Modules/Laralite/
+public/images/
+public/css/
+public/fonts/
+public/*.js
+public/js/
+mix-manifest.json
