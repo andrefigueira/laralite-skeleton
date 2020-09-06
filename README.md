@@ -32,6 +32,13 @@ npm install
 // Compile assets
 npm run dev
 
+// Compile Laralite assets
+cd Modules/Laralite/
+
+npm install 
+
+npm run dev
+
 // Run database migrations
 artisan migrate 
 
